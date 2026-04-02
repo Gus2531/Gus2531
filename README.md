@@ -1,7 +1,9 @@
 # Gustavo Scaff
 ## Sobre mim
 Me chame de gus
-  <img href="https://www.instagram.com/gus.scaff/ src="https://img.shields.io/badge/Instagram-8A2BE2">
+<a href="https://www.instagram.com/gus.scaff/">
+  <img src="https://img.shields.io/badge/Instagram-8A2BE2">
+</a>
 ## Aprendendo
 SuperGeeks SP - WebDev (HTML,CSS e JS) <br>
 Python
