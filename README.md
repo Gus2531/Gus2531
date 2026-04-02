@@ -2,8 +2,8 @@
 ## Sobre mim
 Me chame de gus
 <a href="https://www.instagram.com/gus.scaff/>
-  <img src="https://pt.wikipedia.org/wiki/Ficheiro:Instagram_logo.png">
-  </a>
+  <img src="https://img.shields.io/badge/Instagram-8A2BE2">
+</a>
 ## Aprendendo
 SuperGeeks SP - WebDev (HTML,CSS e JS) <br>
 Python
