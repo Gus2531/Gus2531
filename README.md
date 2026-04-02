@@ -5,7 +5,7 @@ Me chame de gus
   <img src="https://pt.wikipedia.org/wiki/Ficheiro:Instagram_logo.png">
   </a>
 ## Aprendendo
-SuperGeeks SP - WebDev (HTML,CSS e JS)
+SuperGeeks SP - WebDev (HTML,CSS e JS) /n
 Python
 ## Tecnologias basicas
 HTML,CSS,JS e Python
