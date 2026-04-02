@@ -1,7 +1,7 @@
 # Gustavo Scaff
 ## Sobre mim
 Me chame de gus <br>
-<a href="https://www.instagram.com/gus.scaff/" target="_blank_">
+<a href="https://www.instagram.com/gus.scaff/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-8A2BE2">
 </a>
 ## Aprendendo
