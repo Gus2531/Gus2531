@@ -1,5 +1,4 @@
-# Nome
-Gustavo Scaff
+#Gustavo Scaff
 ## Sobre mim
 Me chame de gus
 
