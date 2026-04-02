@@ -5,5 +5,5 @@ Me chame de gus
 ## Aprendendo
 SuperGeeks SP - WebDev (HTML,CSS e JS)
 Python
-## tecnologias basicas
+## Tecnologias basicas
 HTML,CSS,JS e Python
